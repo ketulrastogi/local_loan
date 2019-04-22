@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "895072136468",
+    "firebase_url": "https://localloan-1.firebaseio.com",
+    "project_id": "localloan-1",
+    "storage_bucket": "localloan-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895072136468:android:d80368a5f43caa87",
+        "android_client_info": {
+          "package_name": "com.ketulrastogi.local_loan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895072136468-ro9qh0cj8tn2bhle5lqi138tqnfdfvld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ketulrastogi.local_loan",
+            "certificate_hash": "0659a65a2ac47283c215c54e28c9f42c4f1be90c"
+          }
+        },
+        {
+          "client_id": "895072136468-iht257oe9mudr3ksr43q8jbr80ciqh14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH6yGGfNuxskP_oByaCCPBG4B1pYrrrmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895072136468-iht257oe9mudr3ksr43q8jbr80ciqh14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
